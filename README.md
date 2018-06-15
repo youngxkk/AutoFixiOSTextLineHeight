@@ -20,3 +20,5 @@ gif
 ### 5.Other
 插件主要代码由@xinyangxi，doujinkun完成，youngxkk辅助一些bug哈哈。
 已测试过苹方字体，自定义字体只好自行调节了。
+
+![graph](https://raw.github.com/node-webot/wechat/master/figures/wechat.png)
