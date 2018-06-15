@@ -11,7 +11,7 @@ gif
 （目前不支持同时选中多个artboard进行修复）
 
 ### 3.下载 & 安装
-<a href="https://codeload.github.com/youngxkk/AutoFixiOSTextLine/zip/master">下载 Zip 安装包</a> 解压缩。 (支持 Sketch v50 以上版本)  
+下载 Zip 安装包(https://codeload.github.com/youngxkk/AutoFixiOSTextLine/zip/master) 解压缩。 (支持 Sketch v50 以上版本)  
 双击打开 Auto Fix iOS TextLine.sketchplugin 安装使用。
 
 ### 4.License
