@@ -1,0 +1,18 @@
+{
+    "name" : "Auto Fix iOS TextLine",
+    "identifier" : "com.xyx.setLineHeight",
+    "version" : "1.0.0",
+    "description" : "自动修复Sketch字体行高与真实iOS系统字体行高相同",
+    "authorEmail" : "youngxkk@gmail.com",
+    "author" : "youngxkk",
+
+    "commands" : [
+    {
+      "script" : "script.js",
+      "handler" : "onSetLineHeight",
+      "shortcut" : "shift alt cmd i",
+      "name" : "setLineHeight for iOS",
+      "identifier" : "fix"
+    },
+  ]
+}
