@@ -3,7 +3,7 @@
 ### 1.插件功能
 这是一个自动修复sketch文档中字体行高的插件，仅针对iOS
 使用该插件后，可以做到sketch中字体行高与iOS开发中字体行高100%还原
-gif
+![graph](https://raw.githubusercontent.com/youngxkk/AutoFixiOSTextLine/master/image/fix-1.gif)
 
 ### 2.使用方式
 选中单个artboard或者多个文字图层，选择plugins => Auto Fix iOS TextLine => setLineHeight
@@ -21,4 +21,4 @@ gif
 插件主要代码由@xinyangxi，doujinkun完成，youngxkk辅助一些bug哈哈。
 已测试过苹方字体，自定义字体只好自行调节了。
 
-![graph](https://raw.github.com/node-webot/wechat/master/figures/wechat.png)
+
