@@ -11,7 +11,7 @@
       "script" : "script.js",
       "handler" : "onSetLineHeight",
       "shortcut" : "shift alt cmd i",
-      "name" : "setLineHeight for iOS",
+      "name" : "Fix",
       "identifier" : "fix"
     },
   ]
