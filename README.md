@@ -20,10 +20,10 @@ Screenshots 【gif】
 #### 
 #### 
 ### 2.使用方式
-选中单个artboard或者多个文字图层，选择plugins => Auto Fix iOS Text Line Height => setLineHeight for iOS   
+选中单个artboard或者多个文字图层，选择plugins => Auto Fix iOS Text Line Height => Fix  
 快捷键： shift + option + command + i   
 （目前不支持同时选中多个artboard进行修复）    
-Select a single artboard or multiple text layers, plugins => Auto Fix iOS Text Line Height => setLineHeight for iOS   
+Select a single artboard or multiple text layers, plugins => Auto Fix iOS Text Line Height => Fix   
 (It is not currently supported to select multiple artboards for repair at the same time)    
 shortcuts： shift + option + command + i    
 #### 
