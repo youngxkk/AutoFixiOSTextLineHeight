@@ -13,6 +13,8 @@ Screenshots 【gif】
 #### 
 ![graph](https://raw.githubusercontent.com/youngxkk/AutoFixiOSTextLine/master/image/fix-1.gif)
 
+![graph](https://raw.githubusercontent.com/youngxkk/AutoFixiOSTextLine/master/image/fix-2.gif)
+
 #### 
 #### 
 #### 
