@@ -39,4 +39,4 @@ shortcuts： shift + option + command + i
 #### 
 #### 
 ### 4.其它（Other
-插件主要代码由[@baobaoxi](https://github.com/baobaoxi)、[apudou](https://github.com/elijahdou)完成，youngxkk辅助一些bug哈哈。
+插件主要代码由[@baobaoxi](https://github.com/baobaoxi/)、[apudou](http://elijahdou.github.io/)完成，youngxkk辅助一些bug哈哈。
