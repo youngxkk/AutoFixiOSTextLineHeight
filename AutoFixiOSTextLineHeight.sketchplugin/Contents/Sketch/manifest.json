@@ -1,5 +1,5 @@
 {
-    "name" : "Auto Fix iOS TextLine",
+    "name" : "Auto Fix iOS Text LineHeight",
     "identifier" : "com.xyx.setLineHeight",
     "version" : "1.0.0",
     "description" : "自动修复Sketch字体行高与真实iOS系统字体行高相同",
