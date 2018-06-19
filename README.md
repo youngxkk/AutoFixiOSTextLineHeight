@@ -1,5 +1,5 @@
-## Auto Fix iOS Text LineHeight
-> Auto Fix iOS Text LineHeight， so that the font restoration degree of iOS design draft reaches 100%
+## Auto Fix iOS Text Line Height
+> Auto Fix iOS Text Line Height, so that the font restoration degree of iOS design draft reaches 100%.
 
 
 ### 1.插件功能
