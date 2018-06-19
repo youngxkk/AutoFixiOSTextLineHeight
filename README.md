@@ -10,10 +10,11 @@
 Auto Fix iOS Text Line Height, so that the font restoration degree of iOS design draft reaches 100%.   
 Only the apple font has been tested.   
 
-Screenshots 【gif】
+【gif】Screenshots 1 - Select the layer
 #### 
 ![graph](https://raw.githubusercontent.com/youngxkk/AutoFixiOSTextLine/master/image/fix-1.gif)
-
+【gif】Screenshots 1 - Select the artboard
+#### 
 ![graph](https://raw.githubusercontent.com/youngxkk/AutoFixiOSTextLine/master/image/fix-2.gif)
 
 #### 
@@ -30,10 +31,10 @@ shortcuts： shift + option + command + i
 #### 
 #### 
 ### 3.下载 & 安装 （ Install from download
-1. [下载 zip 安装包](https://raw.githubusercontent.com/youngxkk/AutoFixiOSTextLineHeight/master/AutoFixiOSTextLineHeight.zip) 解压缩。 *(支持 Sketch v50 以上版本)  
+1. [点击这里下载](https://raw.githubusercontent.com/youngxkk/AutoFixiOSTextLineHeight/master/AutoFixiOSTextLineHeight.zip) 解压缩。 *(支持 Sketch v50 以上版本)  
 2. 双击`.sketchplugin` 安装使用。
 #### 
-1. [Download the Zip file](https://raw.githubusercontent.com/youngxkk/AutoFixiOSTextLineHeight/master/AutoFixiOSTextLineHeight.zip) and unzip。 *(Support Sketch Version 50) 
+1. [ Download ](https://raw.githubusercontent.com/youngxkk/AutoFixiOSTextLineHeight/master/AutoFixiOSTextLineHeight.zip) and unzip。 *(Support Sketch Version 50) 
 2. Open `.sketchplugin` to install
 
 #### 
