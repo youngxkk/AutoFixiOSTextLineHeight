@@ -6,7 +6,8 @@
 这是一个自动修复sketch文档中字体行高的插件，仅针对iOS
 使用该插件后，可以做到sketch中字体行高与iOS开发中字体行高100%还原
 
-Screenshots
+## Screenshots
+#### Menu Bar
 ![graph](https://raw.githubusercontent.com/youngxkk/AutoFixiOSTextLine/master/image/fix-1.gif)
 
 #### Menu Bar
