@@ -30,10 +30,10 @@ shortcuts： shift + option + command + i
 #### 
 #### 
 ### 3.下载 & 安装 （ Install from download
-1. [下载安装包](https://codeload.github.com/youngxkk/AutoFixiOSTextLine/zip/master/AutoFixiOSTextLineHeight.sketchplugin) 解压缩。 *(支持 Sketch v50 以上版本)  
+1. [下载 zip 安装包](https://codeload.github.com/youngxkk/AutoFixiOSTextLine/zip/master/AutoFixiOSTextLineHeight.sketchplugin.zip) 解压缩。 *(支持 Sketch v50 以上版本)  
 2. 双击`.sketchplugin` 安装使用。
 #### 
-1. [Download the Zip file](https://codeload.github.com/youngxkk/AutoFixiOSTextLine/zip/master) and unzip。 *(Support Sketch Version 50) 
+1. [Download the Zip file](https://codeload.github.com/youngxkk/AutoFixiOSTextLine/zip/master/AutoFixiOSTextLineHeight.sketchplugin.zip) and unzip。 *(Support Sketch Version 50) 
 2. Open `.sketchplugin` to install
 
 #### 
