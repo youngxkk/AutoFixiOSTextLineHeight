@@ -10,10 +10,10 @@
 Auto Fix iOS Text Line Height, so that the font restoration degree of iOS design draft reaches 100%.   
 Only the apple font has been tested.   
 
-【gif】Screenshots 1 - Select the layer    
+【GIF】Screenshots 1 - Select the layer    
 ![graph](https://raw.githubusercontent.com/youngxkk/AutoFixiOSTextLine/master/image/fix-1.gif)  
 #### 
-【gif】Screenshots 1 - Select the artboard    
+【GIF】Screenshots 1 - Select the artboard    
 ![graph](https://raw.githubusercontent.com/youngxkk/AutoFixiOSTextLine/master/image/fix-2.gif)
 
 #### 
