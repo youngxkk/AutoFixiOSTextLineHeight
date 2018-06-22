@@ -40,4 +40,6 @@ shortcuts： shift + option + command + i
 #### 
 #### 
 ### 4.其它（Other
+[关于Sketch 与 iOS 文字的行高的介绍]https://zhuanlan.zhihu.com/p/38322447    
+
 插件主要代码由[@baobaoxi](https://github.com/baobaoxi/)、[apudou](http://elijahdou.github.io/)完成，youngxkk辅助一些bug哈哈。
